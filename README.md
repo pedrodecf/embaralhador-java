@@ -34,4 +34,4 @@ O Jogo das Palavras Embaralhadas é um jogo de console, desenvolvido para o curs
     - [x] MecanicaDoJogoNormalTest.java
 
 ## Vídeo de Demonstração
-- [x] Link para o vídeo de uma partida do jogo: [Vídeo de Demonstração]([http://link-para-video](https://youtu.be/7fmfJ5CnFPg))
+- [x] Link para o vídeo de uma partida do jogo: [Vídeo de Demonstração](https://youtu.be/7fmfJ5CnFPg)

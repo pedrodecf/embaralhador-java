@@ -1,4 +1,4 @@
-# Jogo das Palavras Embaralhadas - ITA
+![diagrama](https://github.com/user-attachments/assets/715d37fb-6b30-4722-9f85-9162f2fe431d)# Jogo das Palavras Embaralhadas - ITA
 
 ## Descrição
 O Jogo das Palavras Embaralhadas é um jogo de console, desenvolvido para o curso [Orientação a Objetos com Java](https://www.coursera.org/learn/orientacao-a-objetos-com-java) do ITA, onde o jogador deve adivinhar palavras cujas letras estão embaralhadas.
@@ -22,7 +22,7 @@ O Jogo das Palavras Embaralhadas é um jogo de console, desenvolvido para o curs
 - [x] Implementações das interfaces são obtidas através de fábricas.
 
 ## Diagrama de Classes
-
+![diagramanew](https://github.com/user-attachments/assets/fcdbcfee-cac0-4f6e-b243-a509bdfc03cc)
 
 ## Testes de Unidade
 
@@ -34,4 +34,4 @@ O Jogo das Palavras Embaralhadas é um jogo de console, desenvolvido para o curs
     - [x] MecanicaDoJogoNormalTest.java
 
 ## Vídeo de Demonstração
-- [x] Link para o vídeo de uma partida do jogo: [Vídeo de Demonstração](http://link-para-video)
+- [x] Link para o vídeo de uma partida do jogo: [Vídeo de Demonstração]([http://link-para-video](https://youtu.be/7fmfJ5CnFPg))
